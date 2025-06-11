@@ -1,7 +1,7 @@
 # Olá, eu sou Herik! 👋
 
-📚 Estudante de Ciência da Computação  
-📍 Localização: [Sua Cidade/País]  
+📚 Estudante de Análise e Desenvolvimento de Sistemas
+📍 Localização: Navegantes, SC
 
 ### Habilidades
 - HTML | CSS | JavaScript  
@@ -12,4 +12,4 @@
 - [Primette-Projeto](https://github.com/herikf/primetter-projeto) - Descrição breve.  
 - [Sorteador de Números](https://github.com/herikf/sortreader-numeros) - Descrição breve.  
 
-📫 **Contato**: seu-email@exemplo.com  
+📫 **Contato**: herik.felipe.532@gmail.com
