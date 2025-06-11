@@ -1,5 +1,6 @@
 # Olá, eu sou Herik Felipe! 👋  
 📌 Navegantes, Santa Catarina | 🎓 Análise e Desenvolvimento de Sistemas - Uniasselvi
+
 🌐 [Portfólio](https://herikf.github.io) | ✉️ herik.felipe.532@gmail.com  
 
 ### 🚀 Habilidades  
