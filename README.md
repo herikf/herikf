@@ -1,17 +1,18 @@
 # Olá, eu sou Herik Felipe! 👋  
-📌 Navegantes, Santa Catarina | 🎓 Análise e Desenvolvimento de Sistemas - Uniasselvi
 
-🌐 [Portfólio](https://herikf.github.io) | ✉️ herik.felipe.532@gmail.com  
+📍 Navegantes, Santa Catarina | 🎓 Análise e Desenvolvimento de Sistemas - UNISOCIESC  
+🌐 [Portfólio](#) | ✉️ herik.felipe@outlook.com  
 
-### 🚀 Habilidades  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+### 🛠 Habilidades  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
-### 📌 Projetos Fixados  
-- [Primette-Projeto](https://github.com/herikf/primetter-projeto) - Landing page responsiva.  
-- [Sorteador de Números](https://github.com/herikf/sortreader-numeros) - Ferramenta interativa.  
+### 📌 Projetos em Destaque  
+- [primeiro-projeto](https://github.com/herikf/primeiro-projeto) - Landing page responsiva.  
+- [sorteador-numeros](https://github.com/herikf/sorteador-numeros) - Sorteio de números com interface amigável.  
 
 ### 📊 Estatísticas  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=herikf&show_icons=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=herikf&show_icons=true&theme=dracula&hide=issues)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=herikf&layout=compact&theme=dracula)
