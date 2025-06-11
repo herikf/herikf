@@ -1,6 +1,6 @@
 # Olá, eu sou Herik Felipe! 👋  
 
-📍 Navegantes, Santa Catarina | 🎓 Análise e Desenvolvimento de Sistemas - UNISOCIESC  
+📍 Navegantes, Santa Catarina | 🎓 Análise e Desenvolvimento de Sistemas - UNIASSELVO
 🌐 [Portfólio](#) | ✉️ herik.felipe@outlook.com  
 
 ### 🛠 Habilidades  
@@ -15,4 +15,5 @@
 
 ### 📊 Estatísticas  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=herikf&show_icons=true&theme=dracula&hide=issues)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=herikf&layout=compact&theme=dracula)
