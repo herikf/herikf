@@ -2,7 +2,7 @@
 
 📍 Navegantes, Santa Catarina | 🎓 Análise e Desenvolvimento de Sistemas - UNIASSELVO
 
-🌐 [Portfólio](#) | ✉️ herik.felipe@outlook.com  
+🌐 [Portfólio](in/herik-felipe-5780941a3) | ✉️ herik.felipe@outlook.com  
 
 ### 🛠 Habilidades  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
